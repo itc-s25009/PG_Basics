@@ -1,0 +1,2 @@
+print("pythoon")
+print("こんにちわ!")
